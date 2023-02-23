@@ -12,5 +12,5 @@ Capsolver is the best Cloudflare Solver of the market, offer all types of Cloudf
 - Solve Cloudflare Captcha Turnstile / Cloudflare Challenge (5s IUAM) 
 
 https://capsolver.com
- 
+  
  
